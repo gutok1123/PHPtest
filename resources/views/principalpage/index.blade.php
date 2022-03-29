@@ -13,7 +13,7 @@
           <div class="row align-items-center h-100 justify-content-center justify-content-lg-start">
             <div class="col-md-9 col-xxl-5 text-md-start text-center py-6 pt-8">
               <h1 class="fs-4 fs-md-5 fs-xxl-4" data-zanim-xs='{"delay":0.3}' >Consutle Seu Cep, Rápido e Fácil</h1>
-              <p class="fs-1" data-zanim-xs='{"delay":0.5}' >Insira seu cep no campo abaixo :) </p>
+              <p class="fs-1" data-zanim-xs='{"delay":0.5}' >Insira seu cep  no campo abaixo :) </p>
             </div>
           </div>
         </div>

@@ -36,6 +36,11 @@ class CepServices {
         $url = "http://viacep.com.br/ws/$cep_number/xml/";
 
         $xml = simplexml_load_file($url);
+        
+      if(empty($xml->complemento))
+      {
+          $xml->complemento = "Apartamento";
+      }
 
         return $this->cepServices->create($xml);
     }

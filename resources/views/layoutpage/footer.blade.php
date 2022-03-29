@@ -5,9 +5,8 @@
             <div class="col-12 col-sm-12 col-lg-6 mb-4 order-0 order-sm-0"><a class="text-decoration-none" href="#"><img src="{{asset('img/icons/logoo.png')}}" height="51" alt="" /></a>
               <p class="text-light mt-4 mb-0">BR: +55 (79) 99952-7468</p>
               <p class="text-light mt-5">gutok11@hotmail.com</p>
-              <div class="d-flex"><a href="#!"><img class="me-xl-3 me-1" src="{{ asset('img/gallery/linkedin-line1.svg') }}" alt="in" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a><a href="#!">
-              <img class="me-xl-3 me-1" src="{{ asset('img/gallery/facebook-line1.svg')}}" alt="fb" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a><a href="#!">
-              <img class="me-xl-3 me-1" src="{{ asset('img/gallery/twitter-line1.svg')}}" alt="twitter" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a><a href="#!">
+              <div class="d-flex"><a href="https://www.linkedin.com/in/guttemberg-dantas-fernandes-b20769184/" target="_blanck"><img class="me-xl-3 me-1" src="{{ asset('img/gallery/linkedin-line1.svg') }}" alt="in" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a><a href="https://www.facebook.com/guto.danta" target="_blank">
+              <img class="me-xl-3 me-1" src="{{ asset('img/gallery/facebook-line1.svg')}}" alt="fb" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a><a href="https://www.instagram.com/gutodaantas/" target="_blank">
               <img class="me-xl-3 me-1" src="{{ asset('img/gallery/instagram-line1.svg')}}" alt="instragram" width:'20px'="width:'20px'" height:'20px'="height:'20px'" /></a></div>
             </div>
           </div>

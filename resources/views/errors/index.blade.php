@@ -2,7 +2,7 @@
 @section('content')
  <main class="main" id="top">
       <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 px-30 " data-navbar-on-scroll="light">
-            <div class="container"><img src="{{asset('/img/icons/Logo.png')}}" height="35" alt="logo" /></div>
+            <div class="container"><img src="{{asset('/img/icons/logoo.png')}}" height="35" alt="logo" /></div>
       </nav>
       <section class="py-7 py-lg-10" id="home">
         <div class="bg-holder bg-size" style="background-image:url(img/illustration/2.png);background-position:left top;background-size:contain;"></div>

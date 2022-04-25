@@ -24,3 +24,9 @@ Premissas:
 
 # Entrega: 
  * Disponibilizar um link do repositório no GitHub e encaminhar para developer@cd2.com.br
+
+
+## Modo de Uso:
+ * composer install
+ * rode as migrations
+ * rode os teste unitários se quiser :)
